@@ -1,0 +1,10 @@
+.hlink {
+    font-size: larger;
+    text-decoration: none;
+    border: 10px;
+}
+
+.current {
+    background-color: #cfd2cf;
+    border-color: #cfd2cf;
+}
